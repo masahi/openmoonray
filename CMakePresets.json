@@ -48,8 +48,8 @@
             "name": "container-environment",
             "hidden": true,
             "environment": {
-                "DEPS_ROOT"                     : "/installs",
-                "BUILD_DIR"                     : "/build",
+                "DEPS_ROOT"                     : "/home/masa/projects/graphics/openmoonray/installs",
+                "BUILD_DIR"                     : "/home/masa/projects/graphics/openmoonray/build",
                 "CPPUNIT_ROOT"                  : "$env{DEPS_ROOT}",
                 "ISPC"                          : "$env{DEPS_ROOT}/bin/ispc",
                 "JSONCPP_ROOT"                  : "$env{DEPS_ROOT}",

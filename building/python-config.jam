@@ -1,6 +1,5 @@
-using python : 3.6
+using python : 3.9
   : "/usr/bin/python3"
-  : "/usr/include/python3.6m"
+  : "/usr/include/python3.9m"
   : "/usr/lib64"
   ;
-
